@@ -78,7 +78,6 @@ p {
     min-height: 17rem;
     text-align: center;
     padding: 1rem 2rem;
-    margin: 0 2rem;
     flex-direction: column;
     color: var(--text-color);
     border-radius: var(--med-br);
@@ -199,6 +198,10 @@ p {
         flex-direction: column;
         width: 100%;
         padding: 0;
+    }
+
+    .box {
+        margin: 0 2rem;
     }
 
     .box:last-of-type {
