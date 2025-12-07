@@ -1,7 +1,6 @@
 const social = document.querySelectorAll(".social");
 
 const socials = {
-	instagram: "https://instagram.com/gy.szilard/",
 	discord: "https://discord.gg/WjjkHSn9yF",
 	twitch: "https://www.twitch.tv/p4cal"
 }
